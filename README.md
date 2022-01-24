@@ -16,9 +16,9 @@
 
 
 ## Languages I know:
-- 👴 C++
-- 🇺🇸 Indian English
-- 🇩🇪 Hindi
+- 🏎️ C++
+- 🇮🇳 Indian English
+- ❤ Hindi
 
 <!-- This will place the images next to eachother -->
 ![brightprogrammer's github stats](https://github-readme-stats.vercel.app/api?username=brightprogrammer&show_icons=true&theme=radical)
