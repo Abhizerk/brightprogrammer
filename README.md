@@ -22,8 +22,8 @@
 
 <!-- This will place the images next to eachother -->
 ![brightprogrammer's github stats](https://github-readme-stats.vercel.app/api?username=brightprogrammer&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightprogrammer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightprogrammer&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- All sorts of links -->
-[1]: mailto:timstert23@gmail.com
+[1]: mailto:misra.cxx@gmail.com
 [2]: https://github.com/brightprogrammer/MisraOS
