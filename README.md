@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - 🏁 Goals:
   - *Projects*: MisraOS - An operating system written in C++ from scratch
-- ⚡ Fun fact:  ![](https://komarev.com/ghpvc/?username=V01D-NULL)
+- ⚡ Fun fact:  ![](https://komarev.com/ghpvc/?username=brightprogrammer)
 
 ---
 
