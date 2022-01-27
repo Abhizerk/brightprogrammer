@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔥 I am an 19 year young developer from the India who likes low-level computing stuffs and Mathematics.
+- 🔥 I am a 19 year young developer from the India who likes low-level computing stuffs and Mathematics.
 - 🌱 I'm working on my own operating system ([MisraOS][2]) and learning Reverse Engineering and Pwning. 
 - 💬 Ask me about C++ (not much fond of C but good with it), amd64 assembly and other low level stuffs
 - 📫 How to reach me: Reach out to me via discord @ brightprogrammer#5952
